@@ -1,10 +1,9 @@
 ﻿<%@ Page Language="C#" Inherits="System.Web.Mvc.ViewPage" %>
-
 <!DOCTYPE html>
 
 <html>
 <head runat="server">
-    <title>Index</title>
+    <title></title>
 </head>
 <body>
     <div>
