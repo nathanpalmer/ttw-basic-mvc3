@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Source\Apsure\ttw-basic-mvc3\Publish" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Main" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Global.asax" publishTime="09/02/2011 16:25:29" />
+    <file relUrl="bin/SmarterPayment.dll" publishTime="09/03/2011 10:39:03" />
+    <file relUrl="bin/SmarterPayment.pdb" publishTime="09/03/2011 10:39:03" />
+    <file relUrl="Web.config" publishTime="09/03/2011 10:39:04" />
+    <file relUrl="Views/Home/Index.aspx" publishTime="09/02/2011 16:30:12" />
+  </publishProfile>
+</publishData>
