@@ -1,5 +1,0 @@
-C:\Source\Apsure\ttw-basic-mvc3\Source\SmarterPayment\bin\SmarterPayment.dll
-C:\Source\Apsure\ttw-basic-mvc3\Source\SmarterPayment\bin\SmarterPayment.pdb
-C:\Source\Apsure\ttw-basic-mvc3\Source\SmarterPayment\obj\Debug\ResolveAssemblyReference.cache
-C:\Source\Apsure\ttw-basic-mvc3\Source\SmarterPayment\obj\Debug\SmarterPayment.dll
-C:\Source\Apsure\ttw-basic-mvc3\Source\SmarterPayment\obj\Debug\SmarterPayment.pdb
